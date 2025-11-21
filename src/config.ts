@@ -12,7 +12,7 @@ export const PROJECTS = [
     title: "Bio Link Template",
     description: "Plantilla optimizada para perfiles sociales. Diseño 'Dark Mode' nativo, arquitectura de datos separada y animaciones CSS.",
     tags: ["Astro", "Tailwind", "TypeScript"],
-    github: "https://github.com/luismotoni/biolink-astro-template", 
+    buyLink: "https://luismotoni.gumroad.com/l/biolink", 
     demo: "https://biolink-astro-template-njmkg63n5-luis-motonis-projects.vercel.app",
     image: "/project-biolink.jpg" 
   },
@@ -20,7 +20,7 @@ export const PROJECTS = [
     title: "Servicios Profesionales",
     description: "Landing Page corporativa de alta conversión. Incluye secciones de servicios, testimonios y contacto directo a WhatsApp.",
     tags: ["Astro", "Tailwind", "Conversion"],
-    github: "https://github.com/luismotoni/landing-servicios",
+    buyLink: "https://luismotoni.gumroad.com/l/landing-servicios",
     demo: "https://landing-servicios-g08osk6xi-luis-motonis-projects.vercel.app",
     image: "/project-landing.jpg"
   },
@@ -28,7 +28,7 @@ export const PROJECTS = [
     title: "Ebook Sales Page",
     description: "Página de ventas para infoproductos con efecto de libro 3D generado por CSS puro (sin imágenes externas).",
     tags: ["Astro", "CSS 3D", "Marketing"],
-    github: "https://github.com/luismotoni/sales-page",
+    buyLink: "https://luismotoni.gumroad.com/l/sales-page-3d",
     demo: "https://sales-page-axedxg01l-luis-motonis-projects.vercel.app",
     image: "/project-sales.jpg"
   }
