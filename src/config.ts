@@ -14,7 +14,7 @@ export const PROJECTS = [
     tags: ["Astro", "Tailwind", "TypeScript"],
     buyLink: "https://luismotoni.gumroad.com/l/biolink", 
     demo: "https://biolink-astro-template-njmkg63n5-luis-motonis-projects.vercel.app",
-    image: "/project-biolink.jpg" 
+    image: "/project-biolink.png" 
   },
   {
     title: "Servicios Profesionales",
@@ -22,7 +22,7 @@ export const PROJECTS = [
     tags: ["Astro", "Tailwind", "Conversion"],
     buyLink: "https://luismotoni.gumroad.com/l/landing-servicios",
     demo: "https://landing-servicios-g08osk6xi-luis-motonis-projects.vercel.app",
-    image: "/project-landing.jpg"
+    image: "/project-landing.png"
   },
   {
     title: "Ebook Sales Page",
@@ -30,7 +30,7 @@ export const PROJECTS = [
     tags: ["Astro", "CSS 3D", "Marketing"],
     buyLink: "https://luismotoni.gumroad.com/l/sales-page-3d",
     demo: "https://sales-page-axedxg01l-luis-motonis-projects.vercel.app",
-    image: "/project-sales.jpg"
+    image: "/project-sales.png"
   }
 ];
 
